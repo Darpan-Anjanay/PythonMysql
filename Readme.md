@@ -16,8 +16,8 @@ This Python project performs the following tasks:
 ## Installation
 
 ## Clone the repo or download the files
-git clone https://github.com/your-username/mysql-data-import-export.git
-cd mysql-data-import-export
+git clone https://github.com/Darpan-Anjanay/PythonMysql.git
+cd PythonMysql
 
 ## Install dependencies
 pip install -r requirements.txt
